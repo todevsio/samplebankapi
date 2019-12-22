@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Core\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Enumerators\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Notifications\" />
+    <Folder Include="Validators\" />
+    <Folder Include="ValueObjects\" />
+  </ItemGroup>
+
 </Project>
