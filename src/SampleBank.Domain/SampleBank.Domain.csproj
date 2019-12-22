@@ -5,13 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Core\" />
     <Folder Include="Entities\" />
     <Folder Include="Enumerators\" />
-    <Folder Include="Core\" />
     <Folder Include="Interfaces\" />
-    <Folder Include="ValueObjects\" />
     <Folder Include="Notifications\" />
     <Folder Include="Validators\" />
+    <Folder Include="ValueObjects\" />
   </ItemGroup>
 
 </Project>
